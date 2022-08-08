@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Go out with friends",
+      "day": "5th Aug 7pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Skateboarding",
+      "day": "10th Aug 6pm",
+      "reminder": false
+    },
+    {
+      "text": "Go work for a colleague",
+      "day": "16th Aug 7am",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Dentist Appointment",
+      "day": "20th Aug after work",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Take a test",
+      "day": "10th Aug 10am",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
